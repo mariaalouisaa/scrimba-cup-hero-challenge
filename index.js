@@ -8,6 +8,8 @@ const amountSaved = coffeePrice * reusableCupDiscount;
 
 const formatPrice = () => {
   console.log(amountSaved);
+  // add £
+  // if statement to check after decimal
 };
 
 // Task: Based on the number of coffees bought and the reusable cup discount, calculate and render each day's savings in the dailySavings element.
