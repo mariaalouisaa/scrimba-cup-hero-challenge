@@ -12,6 +12,8 @@ const formatPrice = () => {
   // if statement to check after decimal
 };
 
+//-------------- INSTRUCTIONS -----------//
+
 // Task: Based on the number of coffees bought and the reusable cup discount, calculate and render each day's savings in the dailySavings element.
 
 // stretch goal 1️⃣: Show the total savings
